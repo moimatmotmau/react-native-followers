@@ -1,0 +1,15 @@
+export enum Routes {
+  LOGIN = "Login",
+  REGISTER = "Register",
+  FORGOT_PASSWORD = "ForgotPassword",
+  RESET_PASSWORD = "ResetPassword",
+  SUCCESS_NOTI = "SuccessNoti",
+  VERIFICATION = "Verification",
+  PERSION_INTRO_STEP_FIRST = "PersionIntroStepFirst",
+  PERSION_INTRO_STEP_SECOND = "PersionIntroStepSecond",
+  HOME = "Home",
+  PURCHASE = "Purchase",
+  COMMUNITY = "Community",
+  ACCOUNT = "Account",
+  HOME_TAB_NAVIGATOR = "Home_Tab_Navigator",
+}
